@@ -2,13 +2,18 @@
 
 ### devDependencies included
   "mocha": "^5.2.0",
+
   "nodemon": "^1.17.5",
+
   "webpack": "^4.15.1",
+
   "webpack-cli": "^3.0.8"
 
 ### dependencies included
   "body-parser": "^1.18.3",
+
   "express": "^4.16.3",
+  
   "mongodb": "^3.1.1"
 
 
@@ -27,8 +32,11 @@
 ## Comands
 
 **The project will require 3 terminal tabs open to run implementing all functionality:**
+
 npm run build
+
 npm run server:dev
+
 mongod
 
 **To seed the database:**
